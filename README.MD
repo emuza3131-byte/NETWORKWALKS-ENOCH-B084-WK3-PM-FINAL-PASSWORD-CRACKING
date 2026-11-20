@@ -84,9 +84,34 @@ Experienced how to intergrate Hexstrike with Claude AI, for automated security t
 
 # 8. Evidences Collected
 
+## 8.1 PM1 (JTR & Johnny)
+**1.pdf_hash.png**![1.pdf_hash.png](PM1/1.pdf_hash.png)<hr/>
+**2.imported_hash1_file.png**![2.imported_hash1_file.png](PM1/2.imported_hash1_file.png)<hr/>
+**3.jtr_completion.png**![3.jtr_completion.png](PM1/3.jtr_completion.png)<hr/>
+**4.used_password_from_jtr.png**![4.used_password_from_jtr.png](PM1/4.used_password_from_jtr.png)<hr/>
+**5.accessing_locked_pdf_file.png**![5.accessing_locked_pdf_file.png](PM1/5.accessing_locked_pdf_file.png)<hr/>
 
+## 8.2 PM2 (Networkwalk tools)
+**1.hash_calculator.png**![1.hash_calculator.png](PM2/1.hash_calculator.png)<hr/>
+**2.pdf_hash.png**![2.pdf_hash.png](PM2/2.pdf_hash.png)<hr/>
+**3.using_pdf_hash.png**![3.using_pdf_hash.png](PM2/3.using_pdf_hash.png)<hr/>
+**4.cracked_password.png**![4.cracked_password.png](PM2/4.cracked_password.png)<hr/>
+**5.unlocking_pdf.png**![5.unlocking_pdf.png](PM2/5.unlocking_pdf.png)<hr/>
+**6.result.png**![6.result.png](PM2/6.result.png)<hr/>
 
-
+## 8.3 OPTIONAL1 (Hexstrike & Claude AI & JTR CLI)
+**1.hexstrike_Setup.png**![1.hexstrike_Setup.png](OPTIONAL1/1.hexstrike_Setup.png)<hr/>
+**2.claude_mcp_server_setup.png**![2.claude_mcp_server_setup.png](OPTIONAL1/2.claude_mcp_server_setup.png)<hr/>
+**3.hexstrike_intergration_check.png**![3.hexstrike_intergration_check.png](OPTIONAL1/3.hexstrike_intergration_check.png)<hr/>
+**4.hexstrike_log.png**![4.hexstrike_log.png](OPTIONAL1/4.hexstrike_log.png)<hr/>
+**5.JTR_check.png**![5.JTR_check.png](OPTIONAL1/5.JTR_check.png)<hr/>
+**6.pdf2_hash_check.png**![6.pdf2_hash_check.png](OPTIONAL1/6.pdf2_hash_check.png)<hr/>
+**7.claude_cracking_pdf2_password.png**![7.claude_cracking_pdf2_password.png](OPTIONAL1/7.claude_cracking_pdf2_password.png)<hr/>
+**8.unlocking__locked_pdf2.png**![8.unlocking__locked_pdf2.png](OPTIONAL1/8.unlocking__locked_pdf2.png)<hr/>
+**9.unlocked_pdf2.png**![9.unlocked_pdf2.png](OPTIONAL1/9.unlocked_pdf2.png)<hr/>
+**10.claude_cracking_pdf3_password.png**![10.claude_cracking_pdf3_password.png](OPTIONAL1/10.claude_cracking_pdf3_password.png)<hr/>
+**11.unlocking_pdf3.png**![11.unlocking_pdf3.png](OPTIONAL1/11.unlocking_pdf3.png)<hr/>
+**12.accessing_pdf3.png**![12.accessing_pdf3.png](OPTIONAL1/12.accessing_pdf3.png)<hr/>
 
 
 
