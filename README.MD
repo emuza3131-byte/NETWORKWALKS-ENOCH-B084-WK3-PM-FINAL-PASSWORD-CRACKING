@@ -41,21 +41,21 @@ The tools and commands used were used in both Windows 10 and Kali linux environm
 
 ## 4.1 Password cracking with JTR
 
-The pdf used in this project tasks was [My Locked PDF1.pdf](PM1/My Locked PDF1.pdf).
+The pdf used in this project tasks was "My Locked PDF1.pdf".
 I used windows, to install Johnny and JTR, and the online pdf hash extractor to get the hash of the pdf starting with $pdf$, and uploaded
 the hash to JTR, and begin its attack on the pdf hash, until JTR successfully returned the password of that locked pdf file. 
 <br/>Password for this pdf: **good-luck** 
 
 ## 4.2 Password cracking with Netwokwalks tools
 
-The pdf used in this project tasks was [My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf](PM2/My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf).
+The pdf used in this project tasks was "My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf".
 I used the online Networkwalks pdf hash extractor, and it returned similar output with $pdf$, then used Networkwalks password cracking tool, using that 
 pdf hash, to crack the password for that pdf.
 <br/>Password for this pdf: **password1** 
 
 ### 4.3 Password cracking with Hexstrike+Claude AI + JTR
 
-The pdfs used in this optional project tasks was [My Locked PDF2.pdf](OPTIONAL1/My Locked PDF2.pdf) and [My Locked PDF3.pdf](OPTIONAL1/My Locked PDF3.pdf).
+The pdfs used in this optional project tasks was "My Locked PDF2.pdf" and "My Locked PDF3.pdf".
 I first installed Claude Desktop, then Hexstrike. Adjusted one of the python requirements of Hexstrike so that it could complete downloading
 the main required dependenices. Edited Claude Desktop, MCP configuration, point at Hexstrike server. Performed health checks to see what
 Claude can access, and what tools are available. I then executed AI prompts for Claude, to extract the pdfs hash, and execute jtr through
