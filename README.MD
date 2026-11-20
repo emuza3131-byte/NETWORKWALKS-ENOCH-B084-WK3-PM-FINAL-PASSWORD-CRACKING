@@ -88,8 +88,8 @@ Experienced how to intergrate Hexstrike with Claude AI, for automated security t
 **1.pdf_hash.png**![1.pdf_hash.png](PM1/1.pdf_hash.png)<hr/>
 **2.imported_hash1_file.png**![2.imported_hash1_file.png](PM1/2.imported_hash1_file.png)<hr/>
 **3.jtr_completion.png**![3.jtr_completion.png](PM1/3.jtr_completion.png)<hr/>
-**4.used_password_from_jtr.png**![4.used_password_from_jtr.png](PM1/4.used_password_from_jtr.png)<hr/>
-**5.accessing_locked_pdf_file.png**![5.accessing_locked_pdf_file.png](PM1/5.accessing_locked_pdf_file.png)<hr/>
+**4.accessing_locked_pdf_file.png**![4.accessing_locked_pdf_file.png](PM1/4.accessing_locked_pdf_file.png)<hr/>
+**5.used_password_from_jtr.png**![5.used_password_from_jtr.png](PM1/5.used_password_from_jtr.png)<hr/>
 
 ## 8.2 PM2 (Networkwalk tools)
 **1.hash_calculator.png**![1.hash_calculator.png](PM2/1.hash_calculator.png)<hr/>
